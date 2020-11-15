@@ -6,7 +6,8 @@ The module is designed to detect edge cases in client-server interaction and to 
 
 To install the module:
 1. Open terminal
-2. Enter the command: {yarn: yarn add; npm: npm install} yarn add git + https: //some_url+credentials.com/some_subdomain/logger.git
+2. Enter the command: {yarn: yarn add; npm: npm install} yarn add @react-native-community/clipboard && yarn add react-native-file-viewer && yarn add react-native-fs && yarn add react-native-device-info
+
 3. Done)
 
 Install dependencies
