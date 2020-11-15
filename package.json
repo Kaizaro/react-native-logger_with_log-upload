@@ -1,0 +1,14 @@
+{
+  "name": "react-native-logger_with_log-upload",
+  "version": "1.0.1",
+  "description": "Logger module react-native projects",
+  "main": "index.js",
+  "repository": "https://github.com/AlMel3000/logger",
+  "author": "Aleksei Melnikov <AlMel@live.com> (https://github.com/AlMel3000)",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/AlMel3000/logger#readme",
+  "dependencies": {
+    "react-native-logs": "^2.2.1"
+  }
+}
